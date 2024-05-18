@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.h(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(135,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(264,22): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,48): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,48): warning C4244:         with
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,48): warning C4244:         [
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,48): warning C4244:             T=unsigned int
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,48): warning C4244:         ]
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,28): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,28): warning C4244:         with
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,28): warning C4244:         [
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,28): warning C4244:             T=unsigned int
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(309,28): warning C4244:         ]
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(568,22): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(744,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours
+  1 of 261 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  onepiecegame.vcxproj -> C:\Users\LENOVO\source\repos\onepiecegame\x64\Release\onepiecegame.exe

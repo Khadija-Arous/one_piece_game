@@ -1,0 +1,39 @@
+﻿  Alveda.cpp
+  Fighting.cpp
+  Heartmeetcpp.cpp
+  Knife.cpp
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(6,22): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(7,21): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(19,66): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(19,39): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(31,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(34,70): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(34,43): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(60,74): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Knife.cpp(60,47): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+  Luffy.cpp
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:         with
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:         [
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:             T=float
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:         ]
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:         and
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:         [
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:             T=int
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\Luffy.cpp(46,97): warning C4244:         ]
+  main.cpp
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(126,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(196,22): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,48): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,48): warning C4244:         with
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,48): warning C4244:         [
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,48): warning C4244:             T=unsigned int
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,48): warning C4244:         ]
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,28): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,28): warning C4244:         with
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,28): warning C4244:         [
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,28): warning C4244:             T=unsigned int
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(202,28): warning C4244:         ]
+C:\Users\LENOVO\source\repos\onepiecegame\onepiecegame\main.cpp(318,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+  onepiecegame.vcxproj -> C:\Users\LENOVO\source\repos\onepiecegame\x64\Debug\onepiecegame.exe
